@@ -83,6 +83,6 @@ function removeActiveClasses() {
 - Twitter - [@MaianneThornton](https://twitter.com/MaianneThornton)
 - LinkedIn - [@MaianneThornton](https://www.linkedin.com/in/maiannethornton/)
 
-## Acknowledgments 🙏🏾
+## Acknowledgments🙏🏾
 
 Special Thanks go to [Brad Traversy](http://www.traversymedia.com/) and [Florin Pop](http://www.florin-pop.com/) creating the course and making reviewing concepts fun 😊.
