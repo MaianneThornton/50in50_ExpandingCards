@@ -75,7 +75,7 @@ function removeActiveClasses() {
 - [Resource](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/) - This is an amazing article which helped me write better commit messages. I'd recommend it to anyone still learning this concept.
 
 
-## Author 🔎
+## Author🔎
 
 - Website - [Maianne Thornton](https://www.maiannethornton.com/)
 - Frontend Mentor - [@MaianneThornton](https://www.frontendmentor.io/profile/MaianneThornton)
