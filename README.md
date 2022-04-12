@@ -12,7 +12,7 @@ This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaSc
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-    - [Code snippets](#I'm-really-proud-of-these-code-snippets)
+    - [Code snippets](#i'm-really-proud-of-these-code-snippets)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
