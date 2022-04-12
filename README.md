@@ -16,7 +16,7 @@ This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaSc
 - [Author](#author-)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
+## Overview 👋🏾
 
 Welcome to the first mini-project of the course!
 
@@ -83,6 +83,6 @@ function removeActiveClasses() {
 - Twitter - [@MaianneThornton](https://twitter.com/MaianneThornton)
 - LinkedIn - [@MaianneThornton](https://www.linkedin.com/in/maiannethornton/)
 
-## Acknowledgments 🙏🏾
+## Acknowledgments
 
 Special Thanks go to [Brad Traversy](http://www.traversymedia.com/) and [Florin Pop](http://www.florin-pop.com/) creating the course and making reviewing concepts fun 😊.
