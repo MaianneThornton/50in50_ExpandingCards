@@ -12,6 +12,7 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    background-color: black;
 }
 
 .container {
@@ -28,7 +29,7 @@ body {
     border-radius: 50px;
     color: #fff;
     cursor: pointer;
-    /* width property utlizing flex-box */
+    /* width property utilizing flex-box */
     flex: 0.5;
     margin: 10px;
     position: relative;
