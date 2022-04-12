@@ -78,7 +78,7 @@ function removeActiveClasses() {
 
 ## Author🔎
 
-- Website - [Maianne Thornton](https://www.maiannethornton.com/)
+- Website - [Portfolio Site](https://www.maiannethornton.com/Portfolio/index.html)
 - Frontend Mentor - [@MaianneThornton](https://www.frontendmentor.io/profile/MaianneThornton)
 - GitHub - [@MaianneThornton](GitHub.com/MaianneThornton)
 - Twitter - [@MaianneThornton](https://twitter.com/MaianneThornton)
