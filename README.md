@@ -16,7 +16,7 @@ This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaSc
 - [Author](#author-)
 - [Acknowledgments](#acknowledgments)
 
-## Overview 👋🏾
+## Overview
 
 Welcome to the first mini-project of the course!
 
