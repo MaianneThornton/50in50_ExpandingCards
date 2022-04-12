@@ -4,17 +4,16 @@
 This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaScript Udemy Course](https://www.udemy.com/course/50-projects-50-days/). Sharpen your skills by building 50 quick, unique & fun mini projects.
 
 ## Table of contents 😌
-
 - [Overview](#overview-)
-  - [The project](#the-project)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [The project](#the-project-)
+  - [Screenshot](#screenshot-)
+  - [Links](#links-)
+- [My process](#my-process-)
+  - [Built with](#built-with-)
+  - [What I learned](#what-i-learned-)
+  - [Continued development](#continued-development-)
+  - [Useful resources](#useful-resources-)
+- [Author](#author-)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview 👋🏾
