@@ -5,7 +5,7 @@ This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaSc
 
 ## Table of contents 😌
 
-- [Overview](#overview)
+- [Overview](#overview-)
   - [The project](#the-project)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -21,7 +21,7 @@ This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaSc
 
 Welcome to the first mini-project of the course!
 
-### The challenge 😥
+### The project 😥
 
 In this project users will be able to:
 
