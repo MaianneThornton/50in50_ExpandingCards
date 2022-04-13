@@ -38,7 +38,7 @@ In this project users will be able to:
 
 ## My process💭
 
-I started by marking out initial classes and  in the html file to be later used for styling. I also added images during this step. Next I began styling the css to begin building the card's visuals. I then added the media queries, to give the breakpoints for desktop and mobile devices. Lastly, I added functionality by way of JavaScript to switch between classes when the user clicks on a card.
+I started by marking out initial classes in the html file to be later used for styling. I also added images during this step. Next I began styling the css to begin building the card's visuals. I then added the media queries, to give the breakpoints for desktop and mobile devices. Lastly, I added functionality by way of JavaScript to switch between classes when the user clicks on a card.
 
 ### Built with👷🏾‍♀️
 
